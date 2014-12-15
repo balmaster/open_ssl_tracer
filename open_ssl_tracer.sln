@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test_detourse", "test_detourse\test_detourse.vcproj", "{27D6330D-4173-457A-8F56-EB8AB75150FE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tracessl", "tracessl\tracessl.vcproj", "{3FECD5A5-067A-4AFC-8D3A-A7713CC72E33}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestStreams", "TestStreams\TestStreams.vcproj", "{BDFA6868-1B08-477A-9FE3-B99501F5248A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27D6330D-4173-457A-8F56-EB8AB75150FE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{27D6330D-4173-457A-8F56-EB8AB75150FE}.Debug|Win32.Build.0 = Debug|Win32
+		{27D6330D-4173-457A-8F56-EB8AB75150FE}.Release|Win32.ActiveCfg = Release|Win32
+		{27D6330D-4173-457A-8F56-EB8AB75150FE}.Release|Win32.Build.0 = Release|Win32
+		{3FECD5A5-067A-4AFC-8D3A-A7713CC72E33}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3FECD5A5-067A-4AFC-8D3A-A7713CC72E33}.Debug|Win32.Build.0 = Debug|Win32
+		{3FECD5A5-067A-4AFC-8D3A-A7713CC72E33}.Release|Win32.ActiveCfg = Release|Win32
+		{3FECD5A5-067A-4AFC-8D3A-A7713CC72E33}.Release|Win32.Build.0 = Release|Win32
+		{BDFA6868-1B08-477A-9FE3-B99501F5248A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BDFA6868-1B08-477A-9FE3-B99501F5248A}.Debug|Win32.Build.0 = Debug|Win32
+		{BDFA6868-1B08-477A-9FE3-B99501F5248A}.Release|Win32.ActiveCfg = Release|Win32
+		{BDFA6868-1B08-477A-9FE3-B99501F5248A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

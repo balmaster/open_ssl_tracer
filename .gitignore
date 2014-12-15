@@ -1,0 +1,8 @@
+debug
+Debug
+release
+Release
+*.suo
+*.resharper
+*.user
+*.ncb
